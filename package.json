@@ -1,0 +1,41 @@
+{
+    "name": "go-west-custom-vue-pack",
+    "displayName": "Go West custom vue pack",
+    "publisher": "René Schober aka CodingRuo",
+    "description": "Custom Extension Pack for go west frontend development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "benjaminkott.typo3-typoscript", 
+        "bradlc.vscode-tailwindcss", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dannyconnell.make-apps-theme", 
+        "dannyconnell.split-html-attributes", 
+        "dbaeumer.vscode-eslint", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "johnsoncodehk.volar", 
+        "mikestead.dotenv", 
+        "MisterJ.vue-volar-extention-pack", 
+        "mrmlnc.vscode-duplicate", 
+        "ms-vscode-remote.remote-ssh", 
+        "ms-vscode-remote.remote-ssh-edit", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "octref.vetur", 
+        "PKief.material-icon-theme", 
+        "pushqrdx.inline-html", 
+        "sdras.vue-vscode-snippets", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "steoates.autoimport", 
+        "syler.sass-indented", 
+        "voorjaar.windicss-intellisense", 
+        "Wscats.vue", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
